@@ -89,7 +89,6 @@ public class Pacient {
             return this;
         }
 
-
         @Override
         public Pacient build() {
             return new Pacient(this.nume, this.arePatRabatabil, this.areMicDejunInclus, this.arePapuciDeCamera, this.areHalatPentruInterior);

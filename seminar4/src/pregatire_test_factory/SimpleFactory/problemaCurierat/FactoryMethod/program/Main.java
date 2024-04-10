@@ -4,7 +4,6 @@ import pregatire_test_factory.SimpleFactory.problemaCurierat.FactoryMethod.clase
 import pregatire_test_factory.SimpleFactory.problemaCurierat.FactoryMethod.clase.FactoryPachetMic;
 import pregatire_test_factory.SimpleFactory.problemaCurierat.FactoryMethod.clase.FactoryPachete;
 import pregatire_test_factory.SimpleFactory.problemaCurierat.FactoryMethod.clase.Pachet;
-import problemaCurierat.FactoryMethod.clase.*;
 
 public class Main {
 

@@ -105,7 +105,7 @@ public class Rezervare {
 
         @Override
         public Rezervare build() {
-            return new Rezervare(numeClient, this.asezareLaGeam, this.scauneErgonomice, this.decorareaMesei, this.muzicaAmbientalaPersonalizata, this.genMuzica);
+            return new Rezervare(this.numeClient, this.asezareLaGeam, this.scauneErgonomice, this.decorareaMesei, this.muzicaAmbientalaPersonalizata, this.genMuzica);
         }
     }
 }
