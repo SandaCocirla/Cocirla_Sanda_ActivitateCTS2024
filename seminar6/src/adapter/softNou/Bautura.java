@@ -1,4 +1,4 @@
-package softNou;
+package adapter.softNou;
 
 public class Bautura {
     private float pret;

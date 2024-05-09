@@ -1,6 +1,6 @@
-package softVechi;
+package adapter.softVechi;
 
-import softNou.Bautura;
+import adapter.softNou.Bautura;
 
 public class AdapterBauturaProdus extends Produs{
     private Bautura bautura;

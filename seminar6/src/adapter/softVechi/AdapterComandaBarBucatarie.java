@@ -1,7 +1,7 @@
-package softVechi;
+package adapter.softVechi;
 
-import softNou.Bar;
-import softNou.Bautura;
+import adapter.softNou.Bar;
+import adapter.softNou.Bautura;
 
 public class AdapterComandaBarBucatarie extends Bar implements SoftBucatarie {
 

@@ -1,4 +1,4 @@
-package softNou;
+package adapter.softNou;
 
 import java.util.ArrayList;
 import java.util.List;

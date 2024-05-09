@@ -1,8 +1,9 @@
-package main;
+package adapter.main;
 
-import softNou.Bar;
-import softNou.Bautura;
-import softVechi.*;
+import adapter.softNou.Bautura;
+import adapter.softVechi.*;
+import adapter.softNou.Bar;
+
 
 public class Main {
     public static void platesteConsumatie(SoftBucatarie comanda){

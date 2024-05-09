@@ -1,4 +1,4 @@
-package softVechi;
+package adapter.softVechi;
 
 import java.util.ArrayList;
 import java.util.List;

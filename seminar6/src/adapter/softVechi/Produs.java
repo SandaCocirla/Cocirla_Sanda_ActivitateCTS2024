@@ -1,4 +1,4 @@
-package softVechi;
+package adapter.softVechi;
 
 public class Produs {
     private String denumire;

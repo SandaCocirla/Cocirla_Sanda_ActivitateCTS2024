@@ -1,4 +1,4 @@
-package softVechi;
+package adapter.softVechi;
 
 public interface SoftBucatarie {
     public void printBon();
