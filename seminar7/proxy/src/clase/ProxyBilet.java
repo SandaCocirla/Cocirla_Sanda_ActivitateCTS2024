@@ -5,10 +5,12 @@ public class ProxyBilet implements BiletAbstract{
     private static int varstaMinima = 14;
 
     public static void setVarstaMinima(int varstaMinima) {
+
         ProxyBilet.varstaMinima = varstaMinima;
     }
 
     public ProxyBilet(BiletAbstract biletAbstract) {
+
         this.biletAbstract = biletAbstract;
     }
 

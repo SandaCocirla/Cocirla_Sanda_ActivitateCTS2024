@@ -13,7 +13,7 @@ public class Program {
 
 	public static void main(String[] args) {
 
-		List<Angajat> listaAngajati;
+		/*List<Angajat> listaAngajati;
 		AplicantReader angajatReader = new AngajatReader();
 
 		try {
@@ -22,7 +22,7 @@ public class Program {
 				System.out.println(angajat.toString());
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
-		}
+		}*/
 
 	}
 

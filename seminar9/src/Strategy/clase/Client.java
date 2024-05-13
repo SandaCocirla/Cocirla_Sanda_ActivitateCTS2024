@@ -9,10 +9,12 @@ public class Client {
         this.modPlata = new Card();
     }
     public void realizeazaPlata(int suma){
+
         modPlata.plateste(suma, nume);
     }
 
     public void setMetodaPlata(ModPlata modPlata) {
+
         this.modPlata = modPlata;
     }
     @Override

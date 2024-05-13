@@ -1,5 +1,6 @@
 package cts.s02.principii_clean_code.clase.readers;
 
+import cts.s02.principii_clean_code.clase.Aplicant;
 import cts.s02.principii_clean_code.clase.Elev;
 
 import java.io.File;
@@ -27,5 +28,10 @@ public class ElevReader extends AplicantReader {
 
         input2.close();
         return elevi;
+    }
+
+    @Override
+    public List<Aplicant> readAplicant(String file) throws FileNotFoundException {
+        return null;
     }
 }

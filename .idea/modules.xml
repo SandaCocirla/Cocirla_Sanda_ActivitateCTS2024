@@ -3,11 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/pregatireTest2/structural/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/pregatireTest2/structural/Adapter/Adapter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar7/decorator/decorator.iml" filepath="$PROJECT_DIR$/seminar7/decorator/decorator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar8/exComposite/exComposite.iml" filepath="$PROJECT_DIR$/seminar8/exComposite/exComposite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar8/exFlyweight/exFlyweight.iml" filepath="$PROJECT_DIR$/seminar8/exFlyweight/exFlyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatireTest2/pregatireTest2.iml" filepath="$PROJECT_DIR$/pregatireTest2/pregatireTest2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar7/proxy/proxy.iml" filepath="$PROJECT_DIR$/seminar7/proxy/proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1/seminar1.iml" filepath="$PROJECT_DIR$/seminar1/seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar10/seminar10.iml" filepath="$PROJECT_DIR$/seminar10/seminar10.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
@@ -19,8 +15,6 @@
       <module fileurl="file://$PROJECT_DIR$/seminar8/seminar8.iml" filepath="$PROJECT_DIR$/seminar8/seminar8.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar9/seminar9.iml" filepath="$PROJECT_DIR$/seminar9/seminar9.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminare_recuperare_2024.iml" filepath="$PROJECT_DIR$/seminare_recuperare_2024.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar10/state/state.iml" filepath="$PROJECT_DIR$/seminar10/state/state.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar10/templateMethod/templateMethod.iml" filepath="$PROJECT_DIR$/seminar10/templateMethod/templateMethod.iml" />
     </modules>
   </component>
 </project>
