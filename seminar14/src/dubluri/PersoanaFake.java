@@ -3,6 +3,7 @@ package dubluri;
 import model.IPersoana;
 
 public class PersoanaFake implements IPersoana {
+
     private String sex;
     private int varsta;
     private boolean checkCNP;

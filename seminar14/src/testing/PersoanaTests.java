@@ -13,7 +13,6 @@ public class PersoanaTests {
         IPersoana persoana1 = new Persoana("Mihai","502");
         assertEquals("M",persoana1.getSex());
     }
-
     @org.junit.Test
     public void testGetSexFeminin(){
         IPersoana persoana1 = new Persoana("Alin","202");

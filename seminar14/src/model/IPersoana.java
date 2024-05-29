@@ -6,4 +6,5 @@ public interface IPersoana {
 	public int getVarsta();
 	
 	public boolean checkCNP();
+
 }

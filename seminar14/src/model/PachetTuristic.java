@@ -34,18 +34,22 @@ public class PachetTuristic {
     }
 
     public String getDestinatie() {
+
         return destinatie;
     }
 
     public void setDestinatie(String destinatie) {
+
         this.destinatie = destinatie;
     }
 
     public Double getPret() {
+
         return pret;
     }
 
     public void setPret(Double pret) {
+
         this.pret = pret;
     }
 }

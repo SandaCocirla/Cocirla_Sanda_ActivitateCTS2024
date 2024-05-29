@@ -14,4 +14,5 @@ import test.categorii.TestRange;
 @Categories.ExcludeCategory(TestRange.class)
 
 public class SuitaCustom {
+
 }

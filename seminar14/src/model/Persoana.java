@@ -4,7 +4,6 @@ import java.util.Calendar;
 import java.util.concurrent.TimeUnit;
 
 public class Persoana implements IPersoana{
-
 	private String nume;
 	public String CNP;
 	

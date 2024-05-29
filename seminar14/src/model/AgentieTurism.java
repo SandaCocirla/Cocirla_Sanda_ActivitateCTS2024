@@ -19,7 +19,6 @@ public class AgentieTurism {
         for(PachetTuristic pachet:pacheteTuristice) {
             suma+=pachet.getPret();
         }
-
         return suma;
     }
 }
